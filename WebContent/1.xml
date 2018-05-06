@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Test>
+	<Nation>
+		<Country>China</Country>
+		<City>Beijing</City>
+		<Province>
+			<ProvinceName>Zhejiang</ProvinceName>
+			<Population>2kw</Population>
+		</Province>
+		<Province>
+			<ProvinceName>Nanjing</ProvinceName>
+			<Population>1kw</Population>
+		</Province>
+	</Nation>
+	<Nation>
+		<Country>USA</Country>
+		<City>WDS</City>
+		<Province>
+			<ProvinceName>Hawaii</ProvinceName>
+			<Population>3kw</Population>
+		</Province>
+	</Nation>
+</Test>
+
